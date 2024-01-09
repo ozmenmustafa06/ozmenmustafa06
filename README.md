@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ozmenmustafa06@gmail.com**
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/OZMENMUSTAFA06?theme=dark&font=Piazzolla&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/OZMENMUSTAFA06?theme=dark&font=Newsreader&ext=activity)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
