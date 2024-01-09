@@ -54,5 +54,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
-
-          ![snake gif](https://github.com/ozmenmustafa06/ozmenmustafa06/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ozmenmustafa06/ozmenmustafa06/blob/output/github-contribution-grid-snake.gif)
