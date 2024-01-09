@@ -77,7 +77,7 @@
  <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CagatayAkkas&theme=material-palenight&hide_border=false" alt="CagatayAkkas" width="55%" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozmenmustafa06&theme=material-palenight&hide_border=false" alt="ozmenmustafa06" width="55%" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
@@ -91,7 +91,7 @@
   <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ozmenmustafa06" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozmenmustafa06&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ozmenmustafa06" />
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
@@ -99,7 +99,7 @@
   
   
  <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozmenmustafa06&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/ozmenmustafa06/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozmenmustafa06&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
 -->
 
 
